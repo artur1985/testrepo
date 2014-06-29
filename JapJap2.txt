@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Änderung von SomeProject... ;-)
-=======
-Änderung AnotherProject :-))
->>>>>>> 3f584beb59678b110c835bac1eb8663329663663
